@@ -34,4 +34,4 @@ dependencies:
     - scipy==1.7.0 
     - tqdm==4.61.2
     - wget==3.2
-prefix: ~/anaconda3/envs/dualstylegan_env
+prefix: ~/miniconda3/envs/dualstylegan_env
